@@ -2,4 +2,4 @@
 
 - Renamed a file
 - I am learning git tools 
-- Wanted to upload more projects soon.
+- More projects coming soon.
